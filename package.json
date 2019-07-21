@@ -1,0 +1,17 @@
+{
+  "name": "tetrisbot",
+  "version": "1.0.0",
+  "description": "a tournament management bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erick flores",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "firebase-admin": "^8.2.0",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  }
+}
